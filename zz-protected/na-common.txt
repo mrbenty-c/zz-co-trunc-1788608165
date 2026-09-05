@@ -1,0 +1,1 @@
+protected COMMON-CONFIG
